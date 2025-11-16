@@ -1,0 +1,6 @@
+data/
+*.pth
+loss_chart.png
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
